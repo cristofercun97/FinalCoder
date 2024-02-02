@@ -1,0 +1,96 @@
+[
+    
+    {
+        "id": "abrigo-01",
+        "titulo": "Hoodie",
+        "imagen": "./images/h1.jpg",
+        "categoria": {
+            "nombre": "Hoodie",
+            "id": "abrigos"
+        },
+        "precio": 30.00 
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Hoodie",
+        "imagen": "./images/h2.jpg",
+        "categoria": {
+            "nombre": "Hoodie",
+            "id": "abrigos"
+        },
+        "precio": 30
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Hoodie",
+        "imagen": "./images/h3.jpg",
+        "categoria": {
+            "nombre": "Hoodies",
+            "id": "abrigos"
+        },
+        "precio": 30
+    },
+    
+    {
+        "id": "camiseta-01",
+        "titulo": "Camiseta",
+        "imagen": "./images/h4.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 20
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Camiseta",
+        "imagen": "./images/h5.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 20
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Camiseta",
+        "imagen": "./images/h6.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 20
+    },
+   
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalón 01",
+        "imagen": "./images/h7.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 15
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Gorra",
+        "imagen": "./images/h8.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 15
+    },
+    
+    {
+        "id": "pantalon-05",
+        "titulo": "Gorra",
+        "imagen": "./images/h9.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 15
+    }
+]
